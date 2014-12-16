@@ -18,8 +18,9 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
-    
-    
+  
+    NSLog(@"this is checkout ver");
+  
     return YES;
 }
 

@@ -21,6 +21,8 @@
   
     NSLog(@"this is checkout ver");
   
+    //로컬에서 수정해서 서버로 올림
+    
     return YES;
 }
 

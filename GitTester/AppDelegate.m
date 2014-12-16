@@ -20,6 +20,9 @@
     
   
     NSLog(@"this is checkout ver");
+    
+    
+    //우리나라 좋은나라
   
     return YES;
 }
